@@ -6,8 +6,8 @@
   - 4.1.[Registro de reparaciones y diagnóstico](#mechanic-registro-de-reparaciones-y-diagnosticar-del-problema)
   - 4.2.[Estimación de costes](#heavy_dollar_sign-estimación-de-costes)
   - 4.3.[Asignación de reparadores y materiales](#hammer_and_wrench-asignación-de-reparadores-y-materiales)
-  - 4.4.[Estado de la reparación](#estado-de-la-reparación)
-  - 4.5.[Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
+  - 4.4.[Estado de la reparación](#hourglass_flowing_sand-estado-de-la-reparación)
+  - 4.5.[Generación de reportes de reparaciones](#page_with_curl-generación-de-reportes-de-reparaciones)
 - 5.[Estructura de Java](#bar_chart-estructura-de-java)
 - 6.[Estado del proyecto](#white_check_mark-estado-del-proyecto)
 
@@ -75,14 +75,14 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
 ---
 
-###  :hourglass_flowing_sand: Estado de la reparación
+### :hourglass_flowing_sand: Estado de la reparación
 
 - El cliente busca su ordenador
 - El cliente visualiza el estado
 
   ---
 
-### - :page_with_curl: Generación de reportes de reparaciones
+### :page_with_curl: Generación de reportes de reparaciones
 - Reparaciones realizas
 - Tipo de reparaciones
 - Frecuencia del problema en ese ordenador
