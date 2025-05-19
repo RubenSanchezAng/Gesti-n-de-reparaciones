@@ -2,15 +2,15 @@
 [Enlace al GitHub principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores) 
 
 ## 📑 Índice
-- 1. [Gestión de reparaciones](#gestión-de-reparaciones)
-- 2. [Integrantes del Grupo](#integrantes-del-grupo)
-- 3. [Introducción](#introducción)
-- 4. [Funcionalidades](#funcionalidades)
-  - 4.1. [Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnóstico)
-  - 4.2. [Estimación de costes](#estimación-de-costes)
-  - 4.3. [Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
-  - 4.4. [Estado de la reparación](#estado-de-la-reparación)
-  - 4.5. [Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
+- 1.[Gestión de reparaciones](#gestión-de-reparaciones)
+- 2.[Integrantes del Grupo](#integrantes-del-grupo)
+- 3.[Introducción](#introducción)
+- 4.[Funcionalidades](#funcionalidades)
+  - 4.1.[Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnóstico)
+  - 4.2.[Estimación de costes](#estimación-de-costes)
+  - 4.3.[Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
+  - 4.4.[Estado de la reparación](#estado-de-la-reparación)
+  - 4.5.[Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
 - 5. [Estructura de Java](#estructura-de-java)
 - 6. [Estado del proyecto](#estado-del-proyecto)
 
@@ -59,7 +59,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 - Se describe el problema
 
 ---
-### :heavy_dollar_sign: Estimación de costes
+### Estimación de costes :heavy_dollar_sign: 
 
 - Se realiza una estimación de materiales
 - Se realiza una estimación de mano de obra
@@ -70,7 +70,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 > Si no acepta el presupuesto se le entregaría el ordenador sin reparar
 
 ---
-###  :hammer_and_wrench: Asignación de reparadores y materiales
+### Asignación de reparadores y materiales :hammer_and_wrench:
 
 - Se visualiza los técnicos disponibles
 - Se asigna un técnico a una reparación
