@@ -61,5 +61,18 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
 ###  :hourglass_flowing_sand: Estado de la reparación
 
+- El cliente busca su ordenador
+- El cliente visualiza el estado
 
+  ---
+
+### - :page_with_curl: Generación de reportes de reparaciones
+- Reparaciones realizas
+- Tipo de reparaciones
+- Frecuencia del problema en ese ordenador
+- 
+  > [!NOTE]  
+> Este informe se entregará con el ordenador una vez reparado
+
+---
 
