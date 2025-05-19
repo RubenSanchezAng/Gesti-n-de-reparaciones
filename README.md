@@ -1,24 +1,25 @@
 # Servicio de Reparaciones Informáticas  <img src="LogoEmpresa.png" alt="Icono" width="60"/>
 [Enlace al GitHub principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores) 
 
+
 ## 📑 Índice
 - 1.[Gestión de reparaciones](#gestión-de-reparaciones)
-- 2.[Integrantes del Grupo](#integrantes-del-grupo)
+- 2.[Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
 - 3.[Introducción](#introducción)
-- 4.[Funcionalidades](#funcionalidades)
-  - 4.1.[Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnostico)
-  - 4.2.[Estimación de costes](#estimacion-de-costes)
-  - 4.3.[Asignación de reparadores y materiales](#asignacion-de-reparadores-y-materiales)
-  - 4.4.[Estado de la reparación](#estado-de-la-reparacion)
-  - 4.5.[Generación de reportes de reparaciones](#generacion-de-reportes-de-reparaciones)
-- 5. [Estructura de Java](#estructura-de-java)
-- 6. [Estado del proyecto](#estado-del-proyecto)
-
----
+- 4.[Funcionalidades](#package-funcionalidades)
+  - 4.1. [Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnóstico)
+  - 4.2. [Estimación de costes](#estimación-de-costes)
+  - 4.3. [Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
+  - 4.4. [Estado de la reparación](#estado-de-la-reparación)
+  - 4.5. [Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
+- 5.[Estructura de Java](#bar_chart-estructura-de-java)
+- 6.[Estado del proyecto](#white_check_mark-estado-del-proyecto)
 
 ## Gestión de reparaciones
 
-- El objetivo del sistema es llevar un **registro** detallado de las **reparaciones** realizadas, desde la recepción del equipo hasta su entrega al cliente.
+- El objetivo del sistema es llevar un **registro** detallado de las **reparaciones** realizadas,
+desde la recepción del equipo hasta su entrega al cliente.
+
 
 ---
 ## :busts_in_silhouette: Integrantes del Grupo
@@ -50,16 +51,16 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
  ---
 
-## Funcionalidades :package:
+## :package: Funcionalidades
 
-### :mechanic: Registro de reparaciones y diagnóstico
+###  :mechanic:	Registro de reparaciones y diagnosticar del problema.
 
 - El técnico registra el equipo
 - Se realiza un primer diagnóstico
 - Se describe el problema
 
 ---
-### Estimación de costes :heavy_dollar_sign: 
+### :heavy_dollar_sign: Estimación de costes
 
 - Se realiza una estimación de materiales
 - Se realiza una estimación de mano de obra
@@ -70,7 +71,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 > Si no acepta el presupuesto se le entregaría el ordenador sin reparar
 
 ---
-### Asignación de reparadores y materiales :hammer_and_wrench:
+###  :hammer_and_wrench: Asignación de reparadores y materiales
 
 - Se visualiza los técnicos disponibles
 - Se asigna un técnico a una reparación
@@ -78,14 +79,14 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
 ---
 
-### :hourglass_flowing_sand: Estado de la reparación
+###  :hourglass_flowing_sand: Estado de la reparación
 
 - El cliente busca su ordenador
 - El cliente visualiza el estado
 
   ---
 
-### :page_with_curl: Generación de reportes de reparaciones
+### - :page_with_curl: Generación de reportes de reparaciones
 - Reparaciones realizas
 - Tipo de reparaciones
 - Frecuencia del problema en ese ordenador
@@ -98,7 +99,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 ##  :bar_chart: Estructura de Java
 > [!IMPORTANT]  
 > Esto solo es una parte del código del subsitema de gestión de reparaciones
-``` java
+java
  abstract class Estimacion {
     protected String descripcion;
     protected double costo;
@@ -118,8 +119,6 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
         return costo;
     }
 }
-
-```
 --- 
 ###  :white_check_mark: Estado del proyecto
 
