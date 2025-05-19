@@ -5,7 +5,7 @@
 - 4.[Funcionalidades](#package-funcionalidades)
   - 4.1.[Registro de reparaciones y diagnóstico](#mechanic-registro-de-reparaciones-y-diagnosticar-del-problema)
   - 4.2.[Estimación de costes](#heavy_dollar_sign-estimación-de-costes)
-  - 4.3.[Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
+  - 4.3.[Asignación de reparadores y materiales](#hammer_and_wrench-asignación-de-reparadores-y-materiales)
   - 4.4.[Estado de la reparación](#estado-de-la-reparación)
   - 4.5.[Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
 - 5.[Estructura de Java](#bar_chart-estructura-de-java)
@@ -49,7 +49,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
 ## :package: Funcionalidades
 
-###  :mechanic:	Registro de reparaciones y diagnosticar del problema.
+### :mechanic: Registro de reparaciones y diagnosticar del problema.
 
 - El técnico registra el equipo
 - Se realiza un primer diagnóstico
@@ -67,7 +67,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 > Si no acepta el presupuesto se le entregaría el ordenador sin reparar
 
 ---
-###  :hammer_and_wrench: Asignación de reparadores y materiales
+### :hammer_and_wrench: Asignación de reparadores y materiales
 
 - Se visualiza los técnicos disponibles
 - Se asigna un técnico a una reparación
