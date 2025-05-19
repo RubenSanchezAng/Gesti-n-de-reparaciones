@@ -1,7 +1,7 @@
 # Servicio de Reparaciones Informáticas  <img src="LogoEmpresa.png" alt="Icono" width="60"/>
 
 ## Gestión de reparaciones
-[Enlace al GitHub principal]((https://github.com/RubenSanchezAng/Reparacion-de-ordenadores))
+[Enlace al GitHub principal]([https://github.com/RubenSanchezAng/Reparacion-de-ordenadores])
 [Enlace al GitHub principal] ()
 ## :busts_in_silhouette: Integrantes del Grupo
 
