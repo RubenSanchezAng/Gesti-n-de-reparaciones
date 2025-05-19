@@ -21,8 +21,8 @@ Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de S
 ---
 ### Introducción
 El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar las reparaciones de los ordenadores. Esto tiene distinas funciones:
-:mechanic:	Registro de reparaciones y diagnosticar del problema.
-:hammer_and_wrench: Asignación de reparadores y materiales
-:hourglass_flowing_sand: Estado de la reparación
-:heavy_dollar_sign: Estimación de costes
-:page_with_curl: Generación de reportes de reparaciones
+- :mechanic:	Registro de reparaciones y diagnosticar del problema.
+- :hammer_and_wrench: Asignación de reparadores y materiales
+- :hourglass_flowing_sand: Estado de la reparación
+- :heavy_dollar_sign: Estimación de costes
+- :page_with_curl: Generación de reportes de reparaciones
