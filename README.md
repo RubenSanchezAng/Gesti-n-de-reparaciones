@@ -13,7 +13,7 @@
   - 4.4 [ Estado de la reparación](#hourglass_flowing_sand-estado-de-la-reparación)
   - 4.5 [ Generación de reportes de reparaciones](#-page_with_curl-generación-de-reportes-de-reparaciones)
 - 5 [ Estructura de Java](#bar_chart-estructura-de-java)
-- 6. [Estado del proyecto](#white_check_mark-estado-del-proyecto)
+- 6.[Estado del proyecto](#white_check_mark-estado-del-proyecto)
 
 ## Gestión de reparaciones
 
