@@ -1,8 +1,26 @@
 # Servicio de Reparaciones Informáticas  <img src="LogoEmpresa.png" alt="Icono" width="60"/>
+[Enlace al GitHub principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores) 
+
+
+## 📑 Índice
+- [Gestión de reparaciones](#gestión-de-reparaciones)
+- [👥 Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
+- [📘 Introducción](#introducción)
+- [📦 Funcionalidades](#package-funcionalidades)
+  - [🧰 Registro de reparaciones y diagnóstico](#mechanic-registro-de-reparaciones-y-diagnosticar-del-problema)
+  - [💲 Estimación de costes](#heavy_dollar_sign-estimación-de-costes)
+  - [🛠️ Asignación de reparadores y materiales](#hammer_and_wrench-asignación-de-reparadores-y-materiales)
+  - [⏳ Estado de la reparación](#hourglass_flowing_sand-estado-de-la-reparación)
+  - [📄 Generación de reportes de reparaciones](#-page_with_curl-generación-de-reportes-de-reparaciones)
+- [📊 Estructura de Java](#bar_chart-estructura-de-java)
 
 ## Gestión de reparaciones
-[Enlace al GitHub principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores)
 
+- El objetivo del sistema es llevar un **registro** detallado de las **reparaciones** realizadas,
+desde la recepción del equipo hasta su entrega al cliente.
+
+
+---
 ## :busts_in_silhouette: Integrantes del Grupo
 
 Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de Sant Lluís**:
