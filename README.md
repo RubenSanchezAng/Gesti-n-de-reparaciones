@@ -1,25 +1,24 @@
 # Servicio de Reparaciones Informáticas  <img src="LogoEmpresa.png" alt="Icono" width="60"/>
 [Enlace al GitHub principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores) 
 
-
-##  Índice
-- 1.[Gestión de reparaciones](#gestión-de-reparaciones)
-- 2.[Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
-- 3.[Introducción](#introducción)
-- 4.[Funcionalidades](#package-funcionalidades)
+## 📑 Índice
+- 1. [Gestión de reparaciones](#gestión-de-reparaciones)
+- 2. [Integrantes del Grupo](#integrantes-del-grupo)
+- 3. [Introducción](#introducción)
+- 4. [Funcionalidades](#funcionalidades)
   - 4.1. [Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnóstico)
   - 4.2. [Estimación de costes](#estimación-de-costes)
   - 4.3. [Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
   - 4.4. [Estado de la reparación](#estado-de-la-reparación)
   - 4.5. [Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
-- 5.[Estructura de Java](#bar_chart-estructura-de-java)
-- 6.[Estado del proyecto](#white_check_mark-estado-del-proyecto)
+- 5. [Estructura de Java](#estructura-de-java)
+- 6. [Estado del proyecto](#estado-del-proyecto)
+
+---
 
 ## Gestión de reparaciones
 
-- El objetivo del sistema es llevar un **registro** detallado de las **reparaciones** realizadas,
-desde la recepción del equipo hasta su entrega al cliente.
-
+- El objetivo del sistema es llevar un **registro** detallado de las **reparaciones** realizadas, desde la recepción del equipo hasta su entrega al cliente.
 
 ---
 ## :busts_in_silhouette: Integrantes del Grupo
@@ -51,7 +50,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
  ---
 
-## :package: Funcionalidades
+## Funcionalidades :package:
 
 ###  :mechanic:	Registro de reparaciones y diagnosticar del problema.
 
