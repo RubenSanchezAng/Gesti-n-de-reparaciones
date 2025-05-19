@@ -33,7 +33,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 
 ## :package: Funcionalidades
 
-### - :mechanic:	Registro de reparaciones y diagnosticar del problema.
+###  :mechanic:	Registro de reparaciones y diagnosticar del problema.
 
 - El técnico registra el equipo
 - Se realiza un primer diagnóstico
@@ -70,7 +70,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 - Reparaciones realizas
 - Tipo de reparaciones
 - Frecuencia del problema en ese ordenador
-- 
+  
   > [!NOTE]  
 > Este informe se entregará con el ordenador una vez reparado
 
