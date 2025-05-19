@@ -3,17 +3,17 @@
 
 
 ## 📑 Índice
-- 1. [Gestión de reparaciones](#gestión-de-reparaciones)
-- 2. [👥 Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
-- 3. [📘 Introducción](#introducción)
-- 4. [📦 Funcionalidades](#package-funcionalidades)
-  - 4.1 [Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnosticar-del-problema)
-  - 4.2 [Estimación de costes](#estimación-de-costes)
-  - 4.3 [Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
-  - 4.4 [Estado de la reparación](#estado-de-la-reparación)
-  - 4.5 [Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
-- 5. [📊 Estructura de Java](#bar_chart-estructura-de-java)
-- 6. [✅ Estado del proyecto](#white_check_mark-estado-del-proyecto)
+- 1.[Gestión de reparaciones](#gestión-de-reparaciones)
+- 2.[Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
+- 3.[Introducción](#introducción)
+- 4.[Funcionalidades](#package-funcionalidades)
+  - 4.1.[Registro de reparaciones y diagnóstico](#registro-de-reparaciones-y-diagnosticar-del-problema)
+  - 4.2.[Estimación de costes](#estimación-de-costes)
+  - 4.3.[Asignación de reparadores y materiales](#asignación-de-reparadores-y-materiales)
+  - 4.4.[Estado de la reparación](#estado-de-la-reparación)
+  - 4.5.[Generación de reportes de reparaciones](#generación-de-reportes-de-reparaciones)
+- 5.[Estructura de Java](#bar_chart-estructura-de-java)
+- 6.[Estado del proyecto](#white_check_mark-estado-del-proyecto)
 
 ## Gestión de reparaciones
 
