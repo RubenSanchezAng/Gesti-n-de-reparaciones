@@ -3,8 +3,8 @@
 
 
 ## 📑 Índice
-- 1. [Gestión de reparaciones](#gestión-de-reparaciones)
-- 2. [ Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
+- 1.[Gestión de reparaciones](#gestión-de-reparaciones)
+- 2.[ Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
 - 3.[📘 Introducción](#introducción)
 - 4.[📦 Funcionalidades](#package-funcionalidades)
   - 4.1 [🧰 Registro de reparaciones y diagnóstico](#mechanic-registro-de-reparaciones-y-diagnosticar-del-problema)
