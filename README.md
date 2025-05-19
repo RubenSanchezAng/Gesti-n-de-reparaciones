@@ -26,3 +26,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 - :hourglass_flowing_sand: Estado de la reparación
 - :heavy_dollar_sign: Estimación de costes
 - :page_with_curl: Generación de reportes de reparaciones
+
+ :bulb: _Este subsistema se integra con los módulos de materiales, personal, clientes y clientes.
+
+ ---
