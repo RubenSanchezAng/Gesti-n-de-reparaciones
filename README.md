@@ -71,7 +71,7 @@ El **Subsistema de Gestión de Reparaciones** nos permite controlar y realizar l
 - Tipo de reparaciones
 - Frecuencia del problema en ese ordenador
   
-  > [!NOTE]  
+> [!NOTE]  
 > Este informe se entregará con el ordenador una vez reparado
 
 ---
