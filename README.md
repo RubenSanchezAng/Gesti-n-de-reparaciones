@@ -2,7 +2,7 @@
 [Enlace al GitHub principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores) 
 
 
-## 📑 Índice
+##  Índice
 - 1.[Gestión de reparaciones](#gestión-de-reparaciones)
 - 2.[Integrantes del Grupo](#busts_in_silhouette-integrantes-del-grupo)
 - 3.[Introducción](#introducción)
